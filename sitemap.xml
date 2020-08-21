@@ -58,7 +58,7 @@
 </url>
 <url>
 <loc>https://a-slide.github.io/dataviz-galery.html</loc>
-<lastmod>2020-08-21T13:44:31+01:00</lastmod>
+<lastmod>2020-08-21T15:31:52+01:00</lastmod>
 <image:image>
 <image:loc>https://a-slide.github.io/media/posts/8/charts.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -86,6 +86,18 @@
 <image:image>
 <image:loc>https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2-thumbnail.png</image:loc>
 <image:title><![CDATA[pycoMeth_heatmap]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle-thumbnail.png</image:loc>
+<image:title><![CDATA[SARS-COV2 cycle]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://a-slide.github.io/media/posts/8/gallery/MEIS1-thumbnail.png</image:loc>
+<image:title><![CDATA[Methylation_Meis1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>

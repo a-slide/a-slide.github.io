@@ -21,15 +21,15 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T14:11:12+01:00",
-            "date_modified": "2020-08-21T14:11:12+01:00"
+            "date_published": "2020-08-21T15:31:56+01:00",
+            "date_modified": "2020-08-21T15:31:56+01:00"
         },
         {
             "id": "https://a-slide.github.io/dataviz-galery.html",
             "url": "https://a-slide.github.io/dataviz-galery.html",
             "title": "Dataviz Gallery",
             "summary": "Data Is&hellip;",
-            "content_html": "<h3 class=\"_2yYPPW47QxD4lFQTKpfpLQ\">Data Is Beautiful !</h3>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/CGI_Finder.png\" data-size=\"1159x411\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/CGI_Finder-thumbnail.png\" alt=\"CpG plot\" width=\"900\" height=\"319\"></a>\n<figcaption>CpG plot found with pycoMeth CpG finder</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/channels_activity.png\" data-size=\"1400x600\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/channels_activity-thumbnail.png\" alt=\"pycoQC channel\" width=\"900\" height=\"386\"></a>\n<figcaption>pycoQC channel activity plot</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/medaka_graph.png\" data-size=\"2294x506\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/medaka_graph-thumbnail.png\" alt=\"Graph\" width=\"900\" height=\"199\"></a>\n<figcaption>Example section of HdrR/HNI/HSOK/MIKK graph assembly</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoQC_align.png\" data-size=\"1048x513\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoQC_align-thumbnail.png\" alt=\"pycoQC alignment\" width=\"900\" height=\"441\"></a>\n<figcaption>pycoQC alignment status flowchart</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_ridegplot-2.png\" data-size=\"1376x946\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_ridegplot-2-thumbnail.png\" alt=\"pycoMeth_ridgeplot\" width=\"900\" height=\"619\"></a>\n<figcaption>pycoMeth CpG ridgeplot for a CpG island</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2.png\" data-size=\"1515x935\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2-thumbnail.png\" alt=\"pycoMeth_heatmap\" width=\"900\" height=\"555\"></a>\n<figcaption>pycoMeth CpG heatmap for a CpG island</figcaption>\n</figure>\n</div></div>",
+            "content_html": "<h3 class=\"_2yYPPW47QxD4lFQTKpfpLQ\">Data Is Beautiful !</h3>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/CGI_Finder.png\" data-size=\"1159x411\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/CGI_Finder-thumbnail.png\" alt=\"CpG plot\" width=\"900\" height=\"319\"></a>\n<figcaption>CpG plot found with pycoMeth CpG finder</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/channels_activity.png\" data-size=\"1400x600\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/channels_activity-thumbnail.png\" alt=\"pycoQC channel\" width=\"900\" height=\"386\"></a>\n<figcaption>pycoQC channel activity plot</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/medaka_graph.png\" data-size=\"2294x506\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/medaka_graph-thumbnail.png\" alt=\"Graph\" width=\"900\" height=\"199\"></a>\n<figcaption>Example section of HdrR/HNI/HSOK/MIKK graph assembly</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoQC_align.png\" data-size=\"1048x513\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoQC_align-thumbnail.png\" alt=\"pycoQC alignment\" width=\"900\" height=\"441\"></a>\n<figcaption>pycoQC alignment status flowchart</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_ridegplot-2.png\" data-size=\"1376x946\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_ridegplot-2-thumbnail.png\" alt=\"pycoMeth_ridgeplot\" width=\"900\" height=\"619\"></a>\n<figcaption>pycoMeth CpG ridgeplot for a CpG island</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2.png\" data-size=\"1515x935\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2-thumbnail.png\" alt=\"pycoMeth_heatmap\" width=\"900\" height=\"555\"></a>\n<figcaption>pycoMeth CpG heatmap for a CpG island</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle.png\" data-size=\"3781x2662\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle-thumbnail.png\" alt=\"SARS-COV2 cycle\" width=\"900\" height=\"634\"></a>\n<figcaption>SARS-COV2 cycle illustration</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/MEIS1.png\" data-size=\"2233x973\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/MEIS1-thumbnail.png\" alt=\"Methylation_Meis1\" width=\"900\" height=\"392\"></a>\n<figcaption>Methylation profile of MEIS1 obtained with pycoMeth</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore.png\" data-size=\"944x402\"><img loading=\"lazy\" src=\"https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore-thumbnail.png\" alt=\"\" width=\"900\" height=\"383\"></a>\n<figcaption>m6A RNA modification profile of RN7SK transcript obtained with NanoCompore</figcaption>\n</figure>\n</div></div>",
             "image": "https://a-slide.github.io/media/posts/8/charts.jpg",
             "author": {
                 "name": "Adrien Leger"
@@ -37,8 +37,8 @@
             "tags": [
                    "dataviz"
             ],
-            "date_published": "2020-08-21T14:11:12+01:00",
-            "date_modified": "2020-08-21T14:11:12+01:00"
+            "date_published": "2020-08-21T15:31:56+01:00",
+            "date_modified": "2020-08-21T15:31:56+01:00"
         },
         {
             "id": "https://a-slide.github.io/software.html",
@@ -52,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T14:11:12+01:00",
-            "date_modified": "2020-08-21T14:11:12+01:00"
+            "date_published": "2020-08-21T15:31:56+01:00",
+            "date_modified": "2020-08-21T15:31:56+01:00"
         },
         {
             "id": "https://a-slide.github.io/expertise.html",
@@ -67,8 +67,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T14:11:12+01:00",
-            "date_modified": "2020-08-21T14:11:12+01:00"
+            "date_published": "2020-08-21T15:31:56+01:00",
+            "date_modified": "2020-08-21T15:31:56+01:00"
         },
         {
             "id": "https://a-slide.github.io/about.html",
@@ -82,8 +82,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T14:11:12+01:00",
-            "date_modified": "2020-08-21T14:11:12+01:00"
+            "date_published": "2020-08-21T15:31:56+01:00",
+            "date_modified": "2020-08-21T15:31:56+01:00"
         }
     ]
 }

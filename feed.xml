@@ -17,7 +17,7 @@
         <link href="https://a-slide.github.io/contact.html"/>
         <id>https://a-slide.github.io/contact.html</id>
 
-        <updated>2020-08-21T14:11:12+01:00</updated>
+        <updated>2020-08-21T15:31:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/9/StockSnap_D2H7OS598P.jpg" alt="" />
@@ -47,7 +47,7 @@
         <id>https://a-slide.github.io/dataviz-galery.html</id>
             <category term="dataviz"/>
 
-        <updated>2020-08-21T14:11:12+01:00</updated>
+        <updated>2020-08-21T15:31:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/8/charts.jpg" alt="" />
@@ -77,6 +77,15 @@
 <figure class="gallery__item"><a href="https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2.png" data-size="1515x935"><img loading="lazy" src="https://a-slide.github.io/media/posts/8/gallery/pycoMeth_CpG_heatmap-2-thumbnail.png" alt="pycoMeth_heatmap" width="900" height="555"></a>
 <figcaption>pycoMeth CpG heatmap for a CpG island</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle.png" data-size="3781x2662"><img loading="lazy" src="https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle-thumbnail.png" alt="SARS-COV2 cycle" width="900" height="634"></a>
+<figcaption>SARS-COV2 cycle illustration</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://a-slide.github.io/media/posts/8/gallery/MEIS1.png" data-size="2233x973"><img loading="lazy" src="https://a-slide.github.io/media/posts/8/gallery/MEIS1-thumbnail.png" alt="Methylation_Meis1" width="900" height="392"></a>
+<figcaption>Methylation profile of MEIS1 obtained with pycoMeth</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore.png" data-size="944x402"><img loading="lazy" src="https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore-thumbnail.png" alt="" width="900" height="383"></a>
+<figcaption>m6A RNA modification profile of RN7SK transcript obtained with NanoCompore</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>
@@ -89,7 +98,7 @@
         <link href="https://a-slide.github.io/software.html"/>
         <id>https://a-slide.github.io/software.html</id>
 
-        <updated>2020-08-21T14:11:12+01:00</updated>
+        <updated>2020-08-21T15:31:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/7/network2.jpg" alt="" />
@@ -143,7 +152,7 @@
         <link href="https://a-slide.github.io/expertise.html"/>
         <id>https://a-slide.github.io/expertise.html</id>
 
-        <updated>2020-08-21T14:11:12+01:00</updated>
+        <updated>2020-08-21T15:31:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/4/peak4.jpg" alt="" />
@@ -209,7 +218,7 @@
         <link href="https://a-slide.github.io/about.html"/>
         <id>https://a-slide.github.io/about.html</id>
 
-        <updated>2020-08-21T14:11:12+01:00</updated>
+        <updated>2020-08-21T15:31:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/2/books.jpg" alt="" />

@@ -426,12 +426,6 @@ window.addEventListener('scroll', function (e) {
         if (relatedContainer) {
             relatedContainer.classList.remove(config.relatedContainerForOverlayMenuClass);
         }
-
-        var menuOverlay = document.querySelector('.' + config.mobileMenuSidebarOverlayClass);
-
-        if (menuOverlay) {
-            menuOverlay.classList.add(config.hiddenElementClass);
-        }
     }
 
     /**
@@ -440,15 +434,6 @@ window.addEventListener('scroll', function (e) {
     init();
 })(window.publiiThemeMenuConfig);
 
-// Load comments
-var comments = document.getElementById("js-comments");  
-   if (comments) {
-      comments.addEventListener("click", function() {   
-          comments.classList.toggle("is-hidden");      
-             var container = document.getElementById("js-comments__inner");   
-             container.classList.toggle("is-visible");  
-      });
- }
 
 // Load comments
 var comments = document.getElementById("js-comments");  
@@ -459,92 +444,13 @@ var comments = document.getElementById("js-comments");
              container.classList.toggle("is-visible");  
       });
  }
-
-// Load search input area
-var searchButton = document.querySelector(".js-search-btn");
-    searchOverlay = document.querySelector(".js-search-overlay");
-    searchClose = document.querySelector(".js-search-close");
-    searchInput = document.querySelector(".js-search-input");
-
-if (searchButton) {
-    searchButton.addEventListener("click", function () {        
-        searchOverlay.classList.add("expanded");
-        setTimeout(function() { 
-            searchInput.focus(); 
-        }, 60);        
-    });
-    
-    searchClose.addEventListener("click", function () {
-        searchOverlay.classList.remove('expanded');
-    });
-}
-
-// Share buttons pop-up
-(function () {
-    // share popup
-    let shareButton = document.querySelector('.js-post__share-button');
-    let sharePopup = document.querySelector('.js-post__share-popup');
-
-    if (shareButton) {
-        sharePopup.addEventListener('click', function (e) {
-            e.stopPropagation();
-        });
-
-        shareButton.addEventListener('click', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-            sharePopup.classList.toggle('is-visible');
-        });
-
-        document.body.addEventListener('click', function () {
-            sharePopup.classList.remove('is-visible');
-        });
-    }
-
-    // link selector and pop-up window size
-    var Config = {
-        Link: ".js-share",
-        Width: 500,
-        Height: 500
-    };
-    // add handler links
-    var slink = document.querySelectorAll(Config.Link);
-    for (var a = 0; a < slink.length; a++) {
-        slink[a].onclick = PopupHandler;
-    }
-    // create popup
-    function PopupHandler(e) {
-        e = (e ? e : window.event);
-        var t = (e.target ? e.target : e.srcElement);
-        // hide share popup
-        if (sharePopup) {
-            sharePopup.classList.remove('is-visible');
-        }
-        // popup position
-        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
-            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
-        // open popup
-        var link_href = t.href ? t.href : t.parentNode.href;
-        var popup = window.open(link_href, "social",
-            "width=" + Config.Width + ",height=" + Config.Height +
-            ",left=" + px + ",top=" + py +
-            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
-        if (popup) {
-            popup.focus();
-            if (e.preventDefault) e.preventDefault();
-            e.returnValue = false;
-        }
-
-        return !!popup;
-    }
-})();
 
 // Back to Top - by CodyHouse.co on MIT license
 (function(){    
 	var backTop = document.getElementsByClassName('js-footer__bttop')[0],		
 		offset = 600,		
 		offsetOpacity = 1200,
-		scrollDuration = 50,
+		scrollDuration = 700,
 		scrolling = false;
 	if( backTop ) {		
 		window.addEventListener("scroll", function(event) {
@@ -609,4 +515,128 @@ if (searchButton) {
 	  	}
 	  	if (classList.length > 1) removeClass(el, classList.slice(1).join(' '));
 	}
+})();
+
+// Newsletter popup
+(function() {
+    var newsletter_submit = document.querySelector('.newsletter-popup__submit');
+    var newsletter = document.querySelector('.newsletter-popup');
+    var showOnScroll = newsletter.getAttribute('data-show-on-scroll');
+    var showAfterTime = newsletter.getAttribute('data-show-after-time');
+
+    if (showOnScroll) {
+        showOnScroll = parseInt(showOnScroll, 10);
+    } else {
+        showOnScroll = false;
+    }
+
+    if (showAfterTime) {
+        showAfterTime = parseInt(showAfterTime, 10);
+    } else {
+        showAfterTime = false;
+    }
+
+    function showNewsletterOnScroll (e) {
+        var position = window.scrollY;
+
+        if (position > showOnScroll && !newsletter.classList.contains('is-visible')) {
+                newsletter.classList.add('is-visible');
+        }
+    }
+
+    if (newsletter_submit) {
+        newsletter_submit.addEventListener('click', function () {
+            localStorage.setItem('newsletter-subscribe', 'true');
+        });
+
+        document.querySelector('.newsletter-popup__close').addEventListener('click', function (event) {
+            event.preventDefault();
+            localStorage.setItem('newsletter-subscribe', new Date().getTime());
+            newsletter.classList.remove('is-visible');
+
+            if (showOnScroll) {
+                window.removeEventListener('scroll', showNewsletterOnScroll);
+            }
+        });
+    }
+
+    // Newsletter display
+    if (
+        newsletter &&
+        localStorage.getItem('newsletter-subscribe') !== 'true' &&
+        (
+            !localStorage.getItem('newsletter-subscribe') ||
+            new Date().getTime() - parseInt(localStorage.getItem('newsletter-subscribe'), 10) > (1000 * 60 * 60 * 24 * 30)
+        )
+    ) {
+        if (showOnScroll) {
+            window.addEventListener('scroll', showNewsletterOnScroll);
+        }
+
+        if (showAfterTime) {
+            setTimeout(function () {
+                newsletter.classList.add('is-visible');
+            }, showAfterTime);
+        }
+    }
+})();
+
+// Share buttons pop-up
+(function () {
+    // share popup
+    let shareButton = document.querySelector('.post__share-button');
+    let sharePopup = document.querySelector('.post__share-popup');
+
+    if (shareButton) {
+        sharePopup.addEventListener('click', function (e) {
+            e.stopPropagation();
+        });
+
+        shareButton.addEventListener('click', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            sharePopup.classList.toggle('is-visible');
+        });
+
+        document.body.addEventListener('click', function () {
+            sharePopup.classList.remove('is-visible');
+        });
+    }
+
+    // link selector and pop-up window size
+    var Config = {
+        Link: ".js-share",
+        Width: 500,
+        Height: 500
+    };
+    // add handler links
+    var slink = document.querySelectorAll(Config.Link);
+    for (var a = 0; a < slink.length; a++) {
+        slink[a].onclick = PopupHandler;
+    }
+    // create popup
+    function PopupHandler(e) {
+        e = (e ? e : window.event);
+        var t = (e.target ? e.target : e.srcElement);
+        // hide share popup
+        if (sharePopup) {
+            sharePopup.classList.remove('is-visible');
+        }
+        // popup position
+        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
+            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+        // open popup
+        var link_href = t.href ? t.href : t.parentNode.href;
+        var popup = window.open(link_href, "social",
+            "width=" + Config.Width + ",height=" + Config.Height +
+            ",left=" + px + ",top=" + py +
+            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+        if (popup) {
+            popup.focus();
+            if (e.preventDefault) e.preventDefault();
+            e.returnValue = false;
+        }
+
+        return !!popup;
+    }
 })();

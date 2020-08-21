@@ -21,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T13:44:41+01:00",
-            "date_modified": "2020-08-21T13:44:41+01:00"
+            "date_published": "2020-08-21T14:07:27+01:00",
+            "date_modified": "2020-08-21T14:07:27+01:00"
         },
         {
             "id": "https://a-slide.github.io/dataviz-galery.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "dataviz"
             ],
-            "date_published": "2020-08-21T13:44:41+01:00",
-            "date_modified": "2020-08-21T13:44:41+01:00"
+            "date_published": "2020-08-21T14:07:27+01:00",
+            "date_modified": "2020-08-21T14:07:27+01:00"
         },
         {
             "id": "https://a-slide.github.io/software.html",
@@ -52,23 +52,23 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T13:44:41+01:00",
-            "date_modified": "2020-08-21T13:44:41+01:00"
+            "date_published": "2020-08-21T14:07:27+01:00",
+            "date_modified": "2020-08-21T14:07:27+01:00"
         },
         {
             "id": "https://a-slide.github.io/expertise.html",
             "url": "https://a-slide.github.io/expertise.html",
-            "title": "Areas of expertise ",
-            "summary": " Oxford&hellip;",
-            "content_html": "<h3><span class=\"md-expand\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;\" src=\"https://a-slide.github.io/media/posts/4/nanopore.svg\" alt=\"Nanopore sequencing\" width=\"191\" height=\"82\"></figure> </span></h3>\n<h3><span class=\"md-expand\">Oxford Nanopore sequencing data analysis</span></h3>\n<p class=\"\"><span class=\"md-line md-end-block\" ><span class=\"\">Over the last 5 years I have </span><span class=\"\"><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class=\"\">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=\"\"><strong>experimental design and setup</strong></span><span class=\"\">. Here are some of the analyses I very confident in:</span></span></p>\n<ul>\n<li ><span class=\"md-line md-end-block\" >Basic genome and transcriptome alignment</span></li>\n<li ><span class=\"md-line md-end-block\" >Comparative RNA modifications calling</span></li>\n<li ><span class=\"md-line md-end-block\" >CpG methylation calling</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA expression quantification and differential expression analysis</span></li>\n<li >SV calling from DNA-Seq</li>\n<li >Long read graph genome assembly and analysis</li>\n</ul>\n<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/functional-2.svg\" alt=\"Functional genomics\" width=\"213\" height=\"107\"></figure> </h3>\n<h3>Functional Genomics</h3>\n<p><span class=\"md-line md-end-block\" >From a more general point of view, I also have some experience in a <span class=\"\"><strong>wide range of methods related to functional genomics</strong></span>, including the following:</span></p>\n<ul>\n<li><span class=\"md-line md-end-block\" >Chromatin Chip-Seq and bisulfite sequencing</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA differential expression/slicing analysis</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA modifications CLIP-Seq</span></li>\n<li ><span class=\"md-line md-end-block\" >eQTL analysis</span></li>\n</ul>\n<h3><span class=\"md-expand\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;\" src=\"https://a-slide.github.io/media/posts/4/virology.svg\" alt=\"Nanopore sequencing\" width=\"191\" height=\"82\"></figure> </span></h3>\n<h3><span class=\"md-expand\">Gene therapy and virology</span></h3>\n<p class=\"\">My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href=\"https://pubmed.ncbi.nlm.nih.gov/26506038/\">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.</p>\n<ul>\n<li ><span class=\"md-line md-end-block\" >Integration site analysis (LAM, LEM)</span></li>\n<li >Viral preparation quality control from NGS data</li>\n<li >Viral genome assembly from long read data</li>\n</ul>\n<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/python.svg\" alt=\"python dev\" width=\"213\" height=\"107\"></figure></h3>\n<h3>Python software development</h3>\n<p><br><span class=\"md-line md-end-block md-focus\" >I absolutely <span class=\"\"><strong>❤️ Python</strong></span>. It is such an elegant and multi-faceted language. At the moment I will not be offering full-on bespoke software development, but I will be considering <span class=\"\"><strong>custom feature requests</strong></span> on either my own software (See <span class=\"\"><a href=\"https://a-slide.github.io/software.html\">Software Development</a></span><span class=\"\">) or any well documented and clearly written Python program.</span></span></p>",
+            "title": "Expertise ",
+            "summary": " Oxford Nanopore&hellip;",
+            "content_html": "<div class=\"post__toc\">\n<h3>Top 4 areas of expertise</h3>\n<ul>\n<li><a href=\"#mcetoc_1eg8ho3701fs\">Oxford Nanopore sequencing data analysis</a></li>\n<li><a href=\"#mcetoc_1eg8ho3701ft\">Functional Genomics</a></li>\n<li><a href=\"#mcetoc_1eg8ho3701fu\">Gene therapy and virology</a></li>\n<li><a href=\"#mcetoc_1eg8ho3701fv\">Python software development</a></li>\n</ul>\n</div>\n<h3 class=\"line-separator\"> </h3>\n<h3 id=\"mcetoc_1eg8ho3701fs\">Oxford Nanopore sequencing data analysis</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/nanopore.svg\" alt=\"nanopore\" width=\"213\" height=\"107\"></figure>\n<p><span class=\"md-line md-end-block\" ><span class=\"\">Over the last 5 years I have </span><span class=\"\"><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class=\"\">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=\"\"><strong>experimental design and setup</strong></span><span class=\"\">. Here are some of the analyses I very confident in:</span></span></p>\n<ul>\n<li ><span class=\"md-line md-end-block\" >Basic genome and transcriptome alignment</span></li>\n<li ><span class=\"md-line md-end-block\" >Comparative RNA modifications calling</span></li>\n<li ><span class=\"md-line md-end-block\" >CpG methylation calling</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA expression quantification and differential expression analysis</span></li>\n<li >SV calling from DNA-Seq</li>\n<li >Long read graph genome assembly and analysis</li>\n</ul>\n<p class=\"line-separator\"> </p>\n<h3 id=\"mcetoc_1eg8ho3701ft\">Functional Genomics</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/functional.svg\" alt=\"functional\" width=\"213\" height=\"107\"></figure>\n<p><span class=\"md-line md-end-block\" >From a more general point of view, I also have some experience in a <span class=\"\"><strong>wide range of methods related to functional genomics</strong></span>, including the following:</span></p>\n<ul>\n<li><span class=\"md-line md-end-block\" >Chromatin Chip-Seq and bisulfite sequencing</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA differential expression/slicing analysis</span></li>\n<li ><span class=\"md-line md-end-block\" >RNA modifications CLIP-Seq</span></li>\n<li ><span class=\"md-line md-end-block\" >eQTL analysis</span></li>\n</ul>\n<h3 class=\"line-separator\"> </h3>\n<h3 id=\"mcetoc_1eg8ho3701fu\"><span class=\"md-expand\">Gene therapy and virology</span></h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/virology.svg\" alt=\"virology\" width=\"213\" height=\"107\"></figure>\n<p>My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href=\"https://pubmed.ncbi.nlm.nih.gov/26506038/\">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.</p>\n<ul>\n<li ><span class=\"md-line md-end-block\" >Integration site analysis (LAM, LEM)</span></li>\n<li >Viral preparation quality control from NGS data</li>\n<li >Viral genome assembly from long read data</li>\n</ul>\n<h3 class=\"line-separator\"> </h3>\n<h3 id=\"mcetoc_1eg8ho3701fv\">Python software development</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://a-slide.github.io/media/posts/4/python.svg\" alt=\"python\" width=\"213\" height=\"107\"></figure>\n<p><span class=\"md-line md-end-block md-focus\" >I absolutely <span class=\"\"><strong>❤️ Python</strong></span>. It is such an elegant and multi-faceted language. At the moment I will not be offering full-on bespoke software development, but I will be considering <span class=\"\"><strong>custom feature requests</strong></span> on either my own software (See <span class=\"\"><a href=\"https://a-slide.github.io/software.html\">Software Development</a></span><span class=\"\">) or any well documented and clearly written Python program.</span></span></p>\n<p> </p>",
             "image": "https://a-slide.github.io/media/posts/4/peak4.jpg",
             "author": {
                 "name": "Adrien Leger"
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T13:44:41+01:00",
-            "date_modified": "2020-08-21T13:44:41+01:00"
+            "date_published": "2020-08-21T14:07:27+01:00",
+            "date_modified": "2020-08-21T14:07:27+01:00"
         },
         {
             "id": "https://a-slide.github.io/about.html",
@@ -82,8 +82,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-21T13:44:41+01:00",
-            "date_modified": "2020-08-21T13:44:41+01:00"
+            "date_published": "2020-08-21T14:07:27+01:00",
+            "date_modified": "2020-08-21T14:07:27+01:00"
         }
     ]
 }

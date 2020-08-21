@@ -17,7 +17,7 @@
         <link href="https://a-slide.github.io/contact.html"/>
         <id>https://a-slide.github.io/contact.html</id>
 
-        <updated>2020-08-21T13:44:41+01:00</updated>
+        <updated>2020-08-21T14:07:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/9/StockSnap_D2H7OS598P.jpg" alt="" />
@@ -47,7 +47,7 @@
         <id>https://a-slide.github.io/dataviz-galery.html</id>
             <category term="dataviz"/>
 
-        <updated>2020-08-21T13:44:41+01:00</updated>
+        <updated>2020-08-21T14:07:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/8/charts.jpg" alt="" />
@@ -89,7 +89,7 @@
         <link href="https://a-slide.github.io/software.html"/>
         <id>https://a-slide.github.io/software.html</id>
 
-        <updated>2020-08-21T13:44:41+01:00</updated>
+        <updated>2020-08-21T14:07:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/7/network2.jpg" alt="" />
@@ -136,26 +136,36 @@
         </content>
     </entry>
     <entry>
-        <title>Areas of expertise </title>
+        <title>Expertise </title>
         <author>
             <name>Adrien Leger</name>
         </author>
         <link href="https://a-slide.github.io/expertise.html"/>
         <id>https://a-slide.github.io/expertise.html</id>
 
-        <updated>2020-08-21T13:44:41+01:00</updated>
+        <updated>2020-08-21T14:07:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/4/peak4.jpg" alt="" />
-                     Oxford&hellip;
+                     Oxford Nanopore&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://a-slide.github.io/media/posts/4/peak4.jpg" alt="" />
-                <h3><span class="md-expand"><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://a-slide.github.io/media/posts/4/nanopore.svg" alt="Nanopore sequencing" width="191" height="82"></figure> </span></h3>
-<h3><span class="md-expand">Oxford Nanopore sequencing data analysis</span></h3>
-<p class=""><span class="md-line md-end-block" ><span class="">Over the last 5 years I have </span><span class=""><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class="">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=""><strong>experimental design and setup</strong></span><span class="">. Here are some of the analyses I very confident in:</span></span></p>
+                <div class="post__toc">
+<h3>Top 4 areas of expertise</h3>
+<ul>
+<li><a href="#mcetoc_1eg8ho3701fs">Oxford Nanopore sequencing data analysis</a></li>
+<li><a href="#mcetoc_1eg8ho3701ft">Functional Genomics</a></li>
+<li><a href="#mcetoc_1eg8ho3701fu">Gene therapy and virology</a></li>
+<li><a href="#mcetoc_1eg8ho3701fv">Python software development</a></li>
+</ul>
+</div>
+<h3 class="line-separator"> </h3>
+<h3 id="mcetoc_1eg8ho3701fs">Oxford Nanopore sequencing data analysis</h3>
+<figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/nanopore.svg" alt="nanopore" width="213" height="107"></figure>
+<p><span class="md-line md-end-block" ><span class="">Over the last 5 years I have </span><span class=""><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class="">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=""><strong>experimental design and setup</strong></span><span class="">. Here are some of the analyses I very confident in:</span></span></p>
 <ul>
 <li ><span class="md-line md-end-block" >Basic genome and transcriptome alignment</span></li>
 <li ><span class="md-line md-end-block" >Comparative RNA modifications calling</span></li>
@@ -164,8 +174,9 @@
 <li >SV calling from DNA-Seq</li>
 <li >Long read graph genome assembly and analysis</li>
 </ul>
-<h3><figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/functional-2.svg" alt="Functional genomics" width="213" height="107"></figure> </h3>
-<h3>Functional Genomics</h3>
+<p class="line-separator"> </p>
+<h3 id="mcetoc_1eg8ho3701ft">Functional Genomics</h3>
+<figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/functional.svg" alt="functional" width="213" height="107"></figure>
 <p><span class="md-line md-end-block" >From a more general point of view, I also have some experience in a <span class=""><strong>wide range of methods related to functional genomics</strong></span>, including the following:</span></p>
 <ul>
 <li><span class="md-line md-end-block" >Chromatin Chip-Seq and bisulfite sequencing</span></li>
@@ -173,17 +184,20 @@
 <li ><span class="md-line md-end-block" >RNA modifications CLIP-Seq</span></li>
 <li ><span class="md-line md-end-block" >eQTL analysis</span></li>
 </ul>
-<h3><span class="md-expand"><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://a-slide.github.io/media/posts/4/virology.svg" alt="Nanopore sequencing" width="191" height="82"></figure> </span></h3>
-<h3><span class="md-expand">Gene therapy and virology</span></h3>
-<p class="">My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href="https://pubmed.ncbi.nlm.nih.gov/26506038/">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.</p>
+<h3 class="line-separator"> </h3>
+<h3 id="mcetoc_1eg8ho3701fu"><span class="md-expand">Gene therapy and virology</span></h3>
+<figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/virology.svg" alt="virology" width="213" height="107"></figure>
+<p>My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href="https://pubmed.ncbi.nlm.nih.gov/26506038/">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.</p>
 <ul>
 <li ><span class="md-line md-end-block" >Integration site analysis (LAM, LEM)</span></li>
 <li >Viral preparation quality control from NGS data</li>
 <li >Viral genome assembly from long read data</li>
 </ul>
-<h3><figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/python.svg" alt="python dev" width="213" height="107"></figure></h3>
-<h3>Python software development</h3>
-<p><br><span class="md-line md-end-block md-focus" >I absolutely <span class=""><strong>❤️ Python</strong></span>. It is such an elegant and multi-faceted language. At the moment I will not be offering full-on bespoke software development, but I will be considering <span class=""><strong>custom feature requests</strong></span> on either my own software (See <span class=""><a href="https://a-slide.github.io/software.html">Software Development</a></span><span class="">) or any well documented and clearly written Python program.</span></span></p>
+<h3 class="line-separator"> </h3>
+<h3 id="mcetoc_1eg8ho3701fv">Python software development</h3>
+<figure class="post__image"><img loading="lazy"  src="https://a-slide.github.io/media/posts/4/python.svg" alt="python" width="213" height="107"></figure>
+<p><span class="md-line md-end-block md-focus" >I absolutely <span class=""><strong>❤️ Python</strong></span>. It is such an elegant and multi-faceted language. At the moment I will not be offering full-on bespoke software development, but I will be considering <span class=""><strong>custom feature requests</strong></span> on either my own software (See <span class=""><a href="https://a-slide.github.io/software.html">Software Development</a></span><span class="">) or any well documented and clearly written Python program.</span></span></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -195,7 +209,7 @@
         <link href="https://a-slide.github.io/about.html"/>
         <id>https://a-slide.github.io/about.html</id>
 
-        <updated>2020-08-21T13:44:41+01:00</updated>
+        <updated>2020-08-21T14:07:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://a-slide.github.io/media/posts/2/books.jpg" alt="" />

@@ -6,9 +6,9 @@
 </url>
 <url>
 <loc>https://a-slide.github.io/about.html</loc>
-<lastmod>2020-08-21T13:44:19+01:00</lastmod>
+<lastmod>2020-08-26T00:37:55+01:00</lastmod>
 <image:image>
-<image:loc>https://a-slide.github.io/media/posts/2/books.jpg</image:loc>
+<image:loc>https://a-slide.github.io/media/posts/2/road.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -58,7 +58,7 @@
 </url>
 <url>
 <loc>https://a-slide.github.io/dataviz-galery.html</loc>
-<lastmod>2020-08-21T15:31:52+01:00</lastmod>
+<lastmod>2020-08-26T00:39:29+01:00</lastmod>
 <image:image>
 <image:loc>https://a-slide.github.io/media/posts/8/charts.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -88,21 +88,25 @@
 <image:title><![CDATA[pycoMeth_heatmap]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle-thumbnail.png</image:loc>
-<image:title><![CDATA[SARS-COV2 cycle]]></image:title>
-</image:image>
-<image:image>
 <image:loc>https://a-slide.github.io/media/posts/8/gallery/MEIS1-thumbnail.png</image:loc>
 <image:title><![CDATA[Methylation_Meis1]]></image:title>
 </image:image>
 <image:image>
+<image:loc>https://a-slide.github.io/media/posts/8/gallery/1-s2.0-S2162253116300452-gr5_lrg-thumbnail.jpg</image:loc>
+<image:title><![CDATA[AAV-cov]]></image:title>
+</image:image>
+<image:image>
 <image:loc>https://a-slide.github.io/media/posts/8/gallery/7SK_nanocompore-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:title><![CDATA[RN7SK-m6A]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://a-slide.github.io/media/posts/8/gallery/SARS_Cycle-thumbnail.png</image:loc>
+<image:title><![CDATA[SARS-COV2 cycle]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://a-slide.github.io/expertise.html</loc>
-<lastmod>2020-08-21T14:06:53+01:00</lastmod>
+<lastmod>2020-08-25T22:25:32+01:00</lastmod>
 <image:image>
 <image:loc>https://a-slide.github.io/media/posts/4/peak4.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -122,6 +126,14 @@
 <image:image>
 <image:loc>https://a-slide.github.io/media/posts/4/python.svg</image:loc>
 <image:title><![CDATA[python]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://a-slide.github.io/publications-and-communication.html</loc>
+<lastmod>2020-08-26T00:49:04+01:00</lastmod>
+<image:image>
+<image:loc>https://a-slide.github.io/media/posts/11/books.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>

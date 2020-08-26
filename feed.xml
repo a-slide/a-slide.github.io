@@ -17,7 +17,7 @@
         <link href="https://adrienleger.com/presentations-and-posters.html"/>
         <id>https://adrienleger.com/presentations-and-posters.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,7 +29,7 @@
         <link href="https://adrienleger.com/publications-and-communication.html"/>
         <id>https://adrienleger.com/publications-and-communication.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/11/books.jpg" alt="" />
@@ -74,7 +74,7 @@
         <link href="https://adrienleger.com/contact.html"/>
         <id>https://adrienleger.com/contact.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/9/StockSnap_D2H7OS598P.jpg" alt="" />
@@ -105,7 +105,7 @@
         <id>https://adrienleger.com/dataviz-galery.html</id>
             <category term="dataviz"/>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/8/charts.jpg" alt="" />
@@ -162,7 +162,7 @@
         <link href="https://adrienleger.com/software.html"/>
         <id>https://adrienleger.com/software.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/7/network2.jpg" alt="" />
@@ -176,7 +176,7 @@
 <p><span class="md-line md-end-block" ><span class=""><strong>I ❤️ Python</strong></span> and try to write beautiful and easy-to-maintain code, often using object oriented programming. All my data analyses are done in <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">Jupyter Notebooks</a> to keep a track of everything I do and share the code and results with collaborators. </span><span class="md-line md-end-block" > I sometimes use <span class=""><strong>Cython/C for speed</strong></span>, if multi-threading is not enough. I know my way in R, but thoroughly despise it. I use Bash all the time, though I would never consider it for a script longer than a few lines. Let's face it, it is ugly as hell.</span></p>
 <p><span class="md-line md-end-block" >I develop on <span class=""><strong>Ubuntu </strong></span><span class=""><strong>Linux</strong></span> and my production code runs on a Linux/RedHat <span class=""><strong>high performance computing cluster</strong></span>. I don't really like windows and OSX but since other people do I do my best to write portable multi-platform packages. I have experience in <span class=""><strong>GPU computing</strong></span> and <strong>containerisation </strong>and I am getting up to speed in cloud computing as well.</span></p>
 <p><span class="md-line md-end-block" > Over the last 7 years I have been actively developing a number of <span class=""><strong>scripts, APIs and analytic workflows for bioinformatic analyses</strong></span>. In particular, I wrote several tools to analyse <span class=""><strong><a spellcheck="false" href="https://nanoporetech.com/">Oxford Nanopore</a> sequencing data</strong></span>, some of which have been gaining popularity in the community. </span></p>
-<p>Most of my projects are openly released on Github under MIT or GPL licence. Have a look at my <a href="https://github.com/a-slide"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/github.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://adrienleger.com/media/posts/7/responsive/github-xs.png 300w ,https://adrienleger.com/media/posts/7/responsive/github-sm.png 480w ,https://adrienleger.com/media/posts/7/responsive/github-md.png 749w ,https://adrienleger.com/media/posts/7/responsive/github-xl.png 1200w"  alt="" width="40" height="40">Github Profile</a></p>
+<p>Most of my projects are openly released on Github under MIT or GPL licence. Have a look at my <a href="https://github.com/a-slide"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/github.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://adrienleger.com/media/posts/7/responsive/github-xs.png 300w ,https://adrienleger.com/media/posts/7/responsive/github-sm.png 480w ,https://adrienleger.com/media/posts/7/responsive/github-md.png 749w ,https://adrienleger.com/media/posts/7/responsive/github-xl.png 1200w"  alt="" width="40" height="40">Github Profile.</a></p>
 <p><a href="https://github.com/a-slide"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=a-slide&amp;count_private=true&amp;show_icons=true" data-is-external-image="true"  align="left"></a></p>
 <p> </p>
 <p> </p>
@@ -201,13 +201,13 @@
 <pre>NanoCount is a simple Expectation-Maximisation algorithm to estimate transcript abundance from Nanopore direct-RNA datasets. It is extremely fast and provide accurate estimates.</pre>
 <p><a href="https://a-slide.github.io/NanoSnake/"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/NanoSnake.svg" alt="NanoSnake" width="200rem"></a></p>
 <div class="repo-card" data-repo="a-slide/NanoSnake"> </div>
-<pre>NanoSnake contains a collection of modular 🐍 Snakemake pipelines to streamline Nanopore and Illumina data analyses, including RNA expression, DNA methylation, Structural variations... The pipelines are ridiculously simple to deploy on local machines, high performance computing clusters or in the Cloud. Conda is the only required dependency to pre-install</pre>
+<pre>NanoSnake contains a collection of modular 🐍 Snakemake pipelines to streamline Nanopore and Illumina data analyses, including RNA expression, DNA methylation, Structural variations... The pipelines are ridiculously simple to deploy on local machines, high performance computing clusters or in the Cloud. Conda is the only requirement, everything else is automatically installed when needed.</pre>
 <p> </p>
 <div class="repo-card" data-repo="a-slide/pyBioTools"> </div>
-<pre>Contains small utilities I developed over the time to fill-in gaps in existing bioinformatic libraries such as BAM file indexing by read ids or FASTQ files merging and filtering. For a reason I don't really comprehend it has been downloaded more than 8,000 times 😕</pre>
+<pre>Contains small utilities I have been developing over the time to fill-in gaps in existing bioinformatic libraries such as BAM file indexing by read ids or FASTQ files merging and filtering. For a reason I don't really comprehend it has been downloaded more than 8,000 times 😕</pre>
 <p> </p>
 <div class="repo-card" data-repo="a-slide/Sekator"> </div>
-<pre>Sekator is a python/C hybrid program to detect and trim off any sequence in any location in sequencing reads. It was an exiting project were I got to interface a high level python interface with a fast C Smith and Waterman Alignment algorithm with a binding layer written in Cython. As a result it is very fast and accurate 🚀</pre>
+<pre>Sekator is a python/C hybrid program to detect and trim off any sequence in any location in sequencing reads. It was an exciting project were I got to interface a high level python interface with a fast C Smith and Waterman Alignment algorithm with a binding layer written in Cython. As a result it is very fast and accurate 🚀</pre>
 <p> </p>
             ]]>
         </content>
@@ -220,7 +220,7 @@
         <link href="https://adrienleger.com/expertise.html"/>
         <id>https://adrienleger.com/expertise.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/4/peak4.jpg" alt="" />
@@ -242,7 +242,7 @@
 <p id="mcetoc_1egjo34seg" class="line-separator"> </p>
 <h3 id="mcetoc_1eg8ho3701fs">Oxford Nanopore sequencing</h3>
 <figure class="post__image"><img loading="lazy"  src="https://adrienleger.com/media/posts/4/nanopore.svg" alt="nanopore" width="213" height="107"></figure>
-<p><span class="md-line md-end-block" ><span class="">Over the last 5 years I have </span><span class=""><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class="">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=""><strong>experimental design and setup</strong></span><span class="">. Here are some of the analyses I very confident in:</span></span></p>
+<p><span class="md-line md-end-block" ><span class="">Over the last 5 years I have </span><span class=""><strong>analysed a large number of Oxford Nanopore datasets</strong></span><span class="">. I have also experience in library preparation and sequencing, meaning I can offer advice on </span><span class=""><strong>experimental design and setup</strong></span><span class="">. Here are some of the analyses I am very confident in:</span></span></p>
 <ul>
 <li ><span class="md-line md-end-block" >Basic genome and transcriptome alignment</span></li>
 <li ><span class="md-line md-end-block" >Comparative RNA modifications calling</span></li>
@@ -253,17 +253,18 @@
 <p class="line-separator"> </p>
 <h3 id="mcetoc_1eg8ho3701ft">Functional Genomics</h3>
 <figure class="post__image"><img loading="lazy"  src="https://adrienleger.com/media/posts/4/functional.svg" alt="functional" width="213" height="107"></figure>
-<p><span class="md-line md-end-block" >From a more general point of view, I also have some experience in a <span class=""><strong>wide range of methods related to functional genomics</strong></span>, including the following:</span></p>
+<p><span class="md-line md-end-block" >From a more general point of view, I also have some experience in a <span class=""><strong>wide range of methods related to functional genomics, </strong></span></span><span class="md-line md-end-block" >including the following analyses:</span></p>
 <ul>
-<li><span class="md-line md-end-block" >Chromatin Chip-Seq and bisulfite sequencing</span></li>
-<li ><span class="md-line md-end-block" >RNA differential expression/slicing analysis</span></li>
-<li ><span class="md-line md-end-block" >RNA modifications CLIP-Seq</span></li>
-<li ><span class="md-line md-end-block" >eQTL analysis</span></li>
+<li><span class="md-line md-end-block" ><strong>Chip-Seq </strong>for histone modifications or TF binding  </span></li>
+<li><span class="md-line md-end-block" >DNA methylation analysis by bisulfite sequencing</span></li>
+<li ><span class="md-line md-end-block" >RNA differential expression/splicing analysis</span></li>
+<li ><span class="md-line md-end-block" >RNA modifications detection by CLIP-Seq</span></li>
+<li ><span class="md-line md-end-block" >Basic expression QTL analysis</span></li>
 </ul>
 <p id="mcetoc_1egjo34seh" class="line-separator"> </p>
 <h3 id="mcetoc_1eg8ho3701fu"><span class="md-expand">Gene therapy and virology</span></h3>
 <figure class="post__image"><img loading="lazy"  src="https://adrienleger.com/media/posts/4/virology.svg" alt="virology" width="213" height="107"></figure>
-<p>My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href="https://pubmed.ncbi.nlm.nih.gov/26506038/">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.</p>
+<p>My PhD and first postdoc were both in viral gene therapy, in particular molecular mechanisms of viral-host interactions. I developed a <a href="https://pubmed.ncbi.nlm.nih.gov/26506038/">method for contamination detection and quality control</a> of viral vector genomes by sequencing which is now used for human clinical trials.  I have experience in the following areas:</p>
 <ul>
 <li ><span class="md-line md-end-block" >Integration site analysis (<span class="kwd-text">LAM-PCR, targeted sequencing</span>)</span></li>
 <li >Viral preparation quality control from NGS data</li>
@@ -285,7 +286,7 @@
         <link href="https://adrienleger.com/about.html"/>
         <id>https://adrienleger.com/about.html</id>
 
-        <updated>2020-08-26T13:51:36+01:00</updated>
+        <updated>2020-08-26T22:09:52+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/2/road.jpg" alt="" />
@@ -297,7 +298,7 @@
                     <img src="https://adrienleger.com/media/posts/2/road.jpg" alt="" />
                 <h2 class="md-end-block md-heading md-focus" ><span class="md-expand">In brief</span></h2>
 <p class=""><span class="md-line md-end-block" ><span class="">I am a </span><span class=""><strong>computational biologist</strong></span> currently working as a senior postdoc at the EMBL-EBI in Ewan Birney's Team. I have a <span class=""><strong>dual background in molecular biology and bioinformatics</strong></span><span class="">. My PhD was at the bench in </span><span class=""><strong>virology</strong></span> and <span class=""><strong>epigenetics</strong></span> at the INSERM 1089 (University of Nantes, France). I had the opportunity to setup my own team in my PhD lab as a junior team leader and to obtain a master's degree in bioinformatics. I then moved to the EMBL-EBI to expend my skills in data analysis and software development. I have been working on a broad range of topics including <span class=""><strong>RNA modifications in cancer</strong></span> and more recently medaka fish <span class=""><strong>functional genomics</strong></span>.</span></p>
-<p><span class="md-line md-end-block" >Have a look at my online profiles to know more about my academic track record or have a quick look at my <a href="https://adrienleger.com/publications-and-communication.html">top publications</a>.</span></p>
+<p><span class="md-line md-end-block" >Have a look at my online profiles to know more about my academic track record or learned about my <a href="https://adrienleger.com/publications-and-communication.html">top publications</a>.</span></p>
 <p><a href="https://orcid.org/0000-0001-8772-6776"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/2/orcid.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://adrienleger.com/media/posts/2/responsive/orcid-xs.png 300w ,https://adrienleger.com/media/posts/2/responsive/orcid-sm.png 480w ,https://adrienleger.com/media/posts/2/responsive/orcid-md.png 749w ,https://adrienleger.com/media/posts/2/responsive/orcid-xl.png 1200w"  alt="" width="40" height="40">ORCID Profile</a></p>
 <p><a href="https://scholar.google.com/citations?user=SA5LcXgAAAAJ"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/2/scholar.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://adrienleger.com/media/posts/2/responsive/scholar-xs.png 300w ,https://adrienleger.com/media/posts/2/responsive/scholar-sm.png 480w ,https://adrienleger.com/media/posts/2/responsive/scholar-md.png 749w ,https://adrienleger.com/media/posts/2/responsive/scholar-xl.png 1200w"  alt="" width="40" height="40">Google Scholar Profile</a></p>
 <p><a href="https://profiles.impactstory.org/u/0000-0001-8772-6776"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/2/impact_story.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://adrienleger.com/media/posts/2/responsive/impact_story-xs.png 300w ,https://adrienleger.com/media/posts/2/responsive/impact_story-sm.png 480w ,https://adrienleger.com/media/posts/2/responsive/impact_story-md.png 749w ,https://adrienleger.com/media/posts/2/responsive/impact_story-xl.png 1200w"  alt="" width="40" height="40">Impact Story Profile</a></p>

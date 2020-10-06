@@ -66,7 +66,7 @@
 </url>
 <url>
 <loc>https://adrienleger.com/dataviz-galery.html</loc>
-<lastmod>2020-09-29T14:12:03+01:00</lastmod>
+<lastmod>2020-10-06T14:39:30+01:00</lastmod>
 <image:image>
 <image:loc>https://adrienleger.com/media/posts/8/charts.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -108,12 +108,20 @@
 <image:title><![CDATA[RN7SK-m6A]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://adrienleger.com/media/posts/8/gallery/SARS_Cycle-thumbnail.png</image:loc>
-<image:title><![CDATA[SARS-COV2 cycle]]></image:title>
-</image:image>
-<image:image>
 <image:loc>https://adrienleger.com/media/posts/8/gallery/RNA_HDRR_21761679-1776422_igvbandage-thumbnail.png</image:loc>
 <image:title><![CDATA[Graph_insertion]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://adrienleger.com/media/posts/8/gallery/deletions-thumbnail.png</image:loc>
+<image:title><![CDATA[Graph_deletions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://adrienleger.com/media/posts/8/gallery/insertions-thumbnail.png</image:loc>
+<image:title><![CDATA[Graph_insertion with RNA-Seq profile]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://adrienleger.com/media/posts/8/gallery/SARS_Cycle-thumbnail.png</image:loc>
+<image:title><![CDATA[SARS-COV2 cycle]]></image:title>
 </image:image>
 </url>
 <url>

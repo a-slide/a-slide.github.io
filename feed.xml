@@ -3,7 +3,7 @@
     <title>Adrien Leger</title>
     <link href="https://adrienleger.com/feed.xml" rel="self" />
     <link href="https://adrienleger.com" />
-    <updated>2020-10-02T09:10:33+01:00</updated>
+    <updated>2020-10-06T14:39:30+01:00</updated>
     <author>
         <name>Adrien Leger</name>
     </author>
@@ -148,7 +148,7 @@
         <id>https://adrienleger.com/dataviz-galery.html</id>
             <category term="dataviz"/>
 
-        <updated>2020-09-29T14:12:03+01:00</updated>
+        <updated>2020-10-06T14:39:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/8/charts.jpg" alt="" />
@@ -188,11 +188,17 @@
 <figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/7SK_nanocompore.png" data-size="944x402"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/7SK_nanocompore-thumbnail.png" alt="RN7SK-m6A" width="900" height="383"></a>
 <figcaption>m6A RNA modification profile of RN7SK transcript obtained with NanoCompore</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/SARS_Cycle.png" data-size="3781x2662"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/SARS_Cycle-thumbnail.png" alt="SARS-COV2 cycle" width="900" height="634"></a>
-<figcaption>SARS-COV2 cycle infographics made with inkscape. It summarises dozens of paper in a graphical way.</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/RNA_HDRR_21761679-1776422_igvbandage.png" data-size="2859x2157"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/RNA_HDRR_21761679-1776422_igvbandage-thumbnail.png" alt="Graph_insertion" width="900" height="679"></a>
 <figcaption>Alternative divergent path in medaka pangenome graph assembly</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/deletions.png" data-size="2548x1180"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/deletions-thumbnail.png" alt="Graph_deletions" width="900" height="417"></a>
+<figcaption>Example of deletions identified in in medaka pangenome graph assembly</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/insertions.png" data-size="2432x1172"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/insertions-thumbnail.png" alt="Graph_insertion with RNA-Seq profile" width="900" height="434"></a>
+<figcaption>Alternative divergent segment including RNA-seq assembly path in medaka pangenome graph assembly</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://adrienleger.com/media/posts/8/gallery/SARS_Cycle.png" data-size="3781x2662"><img loading="lazy" src="https://adrienleger.com/media/posts/8/gallery/SARS_Cycle-thumbnail.png" alt="SARS-COV2 cycle" width="900" height="634"></a>
+<figcaption>SARS-COV2 cycle infographics made with inkscape. It summarises dozens of paper in a graphical way.</figcaption>
 </figure>
 </div></div>
 <p> </p>

@@ -3,7 +3,7 @@
     <title>Adrien Leger</title>
     <link href="https://adrienleger.com/feed.xml" rel="self" />
     <link href="https://adrienleger.com" />
-    <updated>2020-10-06T14:39:30+01:00</updated>
+    <updated>2020-10-20T21:13:04+01:00</updated>
     <author>
         <name>Adrien Leger</name>
     </author>
@@ -213,7 +213,7 @@
         <link href="https://adrienleger.com/software.html"/>
         <id>https://adrienleger.com/software.html</id>
 
-        <updated>2020-09-29T12:16:04+01:00</updated>
+        <updated>2020-10-20T21:13:04+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/7/network2.jpg" alt="" />
@@ -250,9 +250,9 @@
 <p><a href="https://a-slide.github.io/NanoCount/"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/NanoCount.svg" alt="NanoCount" width="200rem"></a></p>
 <div class="repo-card" data-repo="a-slide/NanoCount"> </div>
 <pre>NanoCount is a simple Expectation-Maximisation algorithm to estimate transcript abundance from Nanopore direct-RNA datasets. It is extremely fast and provide accurate estimates.</pre>
-<p><a href="https://a-slide.github.io/NanoSnake/"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/NanoSnake.svg" alt="NanoSnake" width="200rem"></a></p>
-<div class="repo-card" data-repo="a-slide/NanoSnake"> </div>
-<pre>NanoSnake contains a collection of modular 🐍 Snakemake pipelines to streamline Nanopore and Illumina data analyses, including RNA expression, DNA methylation, Structural variations... The pipelines are ridiculously simple to deploy on local machines, high performance computing clusters or in the Cloud. Conda is the only requirement, everything else is automatically installed when needed.</pre>
+<p><a href="https://a-slide.github.io/pycoSnake/"><img loading="lazy" style="padding: 5px;" src="https://adrienleger.com/media/posts/7/pycoSnake_logo.svg" alt="pycoSnake" width="200rem"></a></p>
+<div class="repo-card" data-repo="a-slide/pycoSnake"> </div>
+<pre>pycoSnake contains a collection of modular 🐍 Snakemake pipelines to streamline Nanopore and Illumina data analyses, including RNA expression, DNA methylation, Structural variations... The pipelines are ridiculously simple to deploy on local machines, high performance computing clusters or in the Cloud. Conda is the only requirement, everything else is automatically installed when needed.</pre>
 <p> </p>
 <div class="repo-card" data-repo="a-slide/pyBioTools"> </div>
 <pre>Contains small utilities I have been developing over the time to fill-in gaps in existing bioinformatic libraries such as BAM file indexing by read ids or FASTQ files merging and filtering. For a reason I don't really comprehend it has been downloaded more than 8,000 times 😕</pre>
@@ -336,7 +336,7 @@
         <link href="https://adrienleger.com/about.html"/>
         <id>https://adrienleger.com/about.html</id>
 
-        <updated>2020-10-02T09:10:33+01:00</updated>
+        <updated>2020-10-16T11:49:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adrienleger.com/media/posts/2/road.jpg" alt="" />

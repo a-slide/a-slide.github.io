@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://adrienleger.com/about.html</loc>
-<lastmod>2020-10-02T09:10:33+01:00</lastmod>
+<lastmod>2020-10-16T11:49:05+01:00</lastmod>
 <image:image>
 <image:loc>https://adrienleger.com/media/posts/2/road.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -166,7 +166,7 @@
 </url>
 <url>
 <loc>https://adrienleger.com/software.html</loc>
-<lastmod>2020-09-29T12:16:04+01:00</lastmod>
+<lastmod>2020-10-20T21:13:04+01:00</lastmod>
 <image:image>
 <image:loc>https://adrienleger.com/media/posts/7/network2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -192,8 +192,8 @@
 <image:title><![CDATA[NanoCount]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://adrienleger.com/media/posts/7/NanoSnake.svg</image:loc>
-<image:title><![CDATA[NanoSnake]]></image:title>
+<image:loc>https://adrienleger.com/media/posts/7/pycoSnake_logo.svg</image:loc>
+<image:title><![CDATA[pycoSnake]]></image:title>
 </image:image>
 </url>
 <url>
